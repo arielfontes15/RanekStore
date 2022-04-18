@@ -1,0 +1,45 @@
+{
+  "usuario": [
+    {
+      "id": "arielfontes15@hotmail.com",
+      "nome": "Ariel Vitor",
+      "senha": "123",
+      "email": "arielfontes15@hotmail.com",
+      "endereco": "Rua Cristovao Colombo",
+      "cep": "85800-000",
+      "numero": "01",
+      "estado": "Goias",
+      "cidade": "Goiania"
+    }
+  ],
+
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este e o novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Este e o novo tablet.",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "3199",
+      "vendido": "false",
+      "descricao": "Este e o novo Smartphone.",
+      "fotos": null
+    }
+  ]
+}
