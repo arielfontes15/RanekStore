@@ -1,3 +1,3 @@
 # Projeto-Ranek
 
-Projeto para venda de Roupas :clothes
+Projeto para venda de Roupas :cloth
