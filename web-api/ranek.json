@@ -121,6 +121,222 @@
       "vendido": "false",
       "descricao": "Este e o novo Cadeira.",
       "fotos": null
+    },
+    {
+      "id": "notebook2",
+      "nome": "Notebook",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este e o novo Notebook.",
+      "fotos": null
+    },
+    {
+      "id": "tablet2",
+      "nome": "Tablet",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Este e o novo Tablet.",
+      "fotos": null
+    },
+    {
+      "id": "teclado2",
+      "nome": "Teclado",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "299",
+      "vendido": "false",
+      "descricao": "Este e o novo Teclado.",
+      "fotos": null
+    },
+    {
+      "id": "mouse2",
+      "nome": "Mouse",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "120",
+      "vendido": "false",
+      "descricao": "Este e o novo Mouse.",
+      "fotos": null
+    },
+    {
+      "id": "headset2",
+      "nome": "Headset",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "254",
+      "vendido": "false",
+      "descricao": "Este e o novo Headset.",
+      "fotos": null
+    },
+    {
+      "id": "mousepad2",
+      "nome": "Mousepad",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "50",
+      "vendido": "false",
+      "descricao": "Este e o novo Mousepad.",
+      "fotos": null
+    },
+    {
+      "id": "monitor2",
+      "nome": "Monitor",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Este e o novo Monitor.",
+      "fotos": null
+    },
+    {
+      "id": "cadeira2",
+      "nome": "Cadeira",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Este e o novo Cadeira.",
+      "fotos": null
+    },
+    {
+      "id": "monitor3",
+      "nome": "Monitor",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Este e o novo Monitor.",
+      "fotos": null
+    },
+    {
+      "id": "cadeira2",
+      "nome": "Cadeira",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Este e o novo Cadeira.",
+      "fotos": null
+    },
+    {
+      "id": "monitor1",
+      "nome": "Monitor",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Este e o novo Monitor.",
+      "fotos": null
+    },
+    {
+      "id": "cadeira1",
+      "nome": "Cadeira",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Este e o novo Cadeira.",
+      "fotos": null
+    },
+    {
+      "id": "notebook3",
+      "nome": "Notebook",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Este e o novo Notebook.",
+      "fotos": null
+    },
+    {
+      "id": "tablet3",
+      "nome": "Tablet",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Este e o novo Tablet.",
+      "fotos": null
+    },
+    {
+      "id": "teclado3",
+      "nome": "Teclado",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "299",
+      "vendido": "false",
+      "descricao": "Este e o novo Teclado.",
+      "fotos": null
+    },
+    {
+      "id": "mouse3",
+      "nome": "Mouse",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "120",
+      "vendido": "false",
+      "descricao": "Este e o novo Mouse.",
+      "fotos": null
+    },
+    {
+      "id": "headset3",
+      "nome": "Headset",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "254",
+      "vendido": "false",
+      "descricao": "Este e o novo Headset.",
+      "fotos": null
+    },
+    {
+      "id": "mousepad3",
+      "nome": "Mousepad",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "50",
+      "vendido": "false",
+      "descricao": "Este e o novo Mousepad.",
+      "fotos": null
+    },
+    {
+      "id": "monitor3",
+      "nome": "Monitor",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Este e o novo Monitor.",
+      "fotos": null
+    },
+    {
+      "id": "cadeira3",
+      "nome": "Cadeira",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Este e o novo Cadeira.",
+      "fotos": null
+    },
+    {
+      "id": "monitor4",
+      "nome": "Monitor",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Este e o novo Monitor.",
+      "fotos": null
+    },
+    {
+      "id": "cadeira3",
+      "nome": "Cadeira",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Este e o novo Cadeira.",
+      "fotos": null
+    },
+    {
+      "id": "monitor6",
+      "nome": "Monitor",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Este e o novo Monitor.",
+      "fotos": null
+    },
+    {
+      "id": "cadeira4",
+      "nome": "Cadeira",
+      "usuario_id": "arielfontes15@hotmail.com",
+      "preco": "999",
+      "vendido": "false",
+      "descricao": "Este e o novo Cadeira.",
+      "fotos": null
     }
   ]
 }
