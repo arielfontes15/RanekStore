@@ -10,9 +10,44 @@
       "numero": "01",
       "estado": "Goias",
       "cidade": "Goiania"
+    },
+    {
+      "id": "maria@hotmail.com",
+      "nome": "Maria das Neves",
+      "email": "maria@hotmail.com",
+      "senha": "123",
+      "cep": "74484711",
+      "rua": "Rua Susana D'Oliveira",
+      "numero": "200",
+      "bairro": "Jardim das Rosas",
+      "cidade": "Goiânia",
+      "estado": "GO"
+    },
+    {
+      "id": "geovanna@hotmail.com",
+      "nome": "Geovanna",
+      "email": "geovanna@hotmail.com",
+      "senha": "123",
+      "cep": "74483720",
+      "rua": "Rua Cristóvão Colombo",
+      "numero": "01",
+      "bairro": "Lorena Parque",
+      "cidade": "Goiânia",
+      "estado": "GO"
+    },
+    {
+      "id": "corno@hotmail.com",
+      "nome": "Corno 2",
+      "email": "corno@hotmail.com",
+      "senha": "123",
+      "cep": "74484711",
+      "rua": "Rua Susana D'Oliveira",
+      "numero": "21",
+      "bairro": "Jardim das Rosas",
+      "cidade": "Goiânia",
+      "estado": "GO"
     }
   ],
-
   "produto": [
     {
       "id": "notebook",

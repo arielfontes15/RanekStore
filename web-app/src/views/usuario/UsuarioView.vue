@@ -1,5 +1,14 @@
 <template>
-  <h1>Pagina do Usuario {{$store.state.usuario}}</h1>
+  <section class="usuario">
+    <nav>
+      <ul>
+        <li>
+          <router-link to="/">Produtos</router-link>
+        </li>
+      </ul>
+    </nav>
+    <p>Pagina do Usuario {{ $store.state.usuario }}</p>
+  </section>
 </template>
 
 <script>
