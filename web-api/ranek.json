@@ -3,13 +3,13 @@
     {
       "id": "arielfontes15@hotmail.com",
       "nome": "Ariel Vitor",
-      "senha": "123",
       "email": "arielfontes15@hotmail.com",
-      "endereco": "Rua Cristovao Colombo",
+      "senha": "123",
       "cep": "85800-000",
+      "rua": "Rua Cristovao Colombo",
       "numero": "01",
-      "estado": "Goias",
-      "cidade": "Goiania"
+      "cidade": "Goiania",
+      "estado": "Goias"
     },
     {
       "id": "maria@hotmail.com",

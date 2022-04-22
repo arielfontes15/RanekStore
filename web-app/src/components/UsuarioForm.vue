@@ -47,15 +47,15 @@ export default {
   computed: {
     ...mapFields({
       fields: [
-        "bairro",
-        "cep",
-        "cidade",
-        "email",
-        "estado",
         "nome",
-        "numero",
-        "rua",
+        "email",
         "senha",
+        "cep",
+        "rua",
+        "numero",
+        "bairro",
+        "cidade",
+        "estado",
       ],
       base: "usuario",
       mutation: "UPDATE_USUARIO",
