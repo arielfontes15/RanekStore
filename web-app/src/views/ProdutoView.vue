@@ -8,7 +8,7 @@
       </ul>
       <div class="info">
         <h1>{{ produto.nome }}</h1>
-        <p class="preco">{{ produto.preco | formatReal }}</p>
+        <p class="preco">{{ produto.preco | formatPreco }}</p>
         <p class="descricao">{{ produto.descricao }}</p>
         <button v-if="produto.vendido === 'false'" class="btn">Comprar</button>
         <button class="btn" v-else disabled>Produto Esgotado</button>
@@ -57,18 +57,18 @@ export default {
   margin: 0 auto;
 }
 
-.preco{
+.preco {
   color: #e80;
   font-weight: bold;
   font-size: 1.5rem;
   margin-bottom: 40px;
 }
 
-.descricao{
+.descricao {
   font-size: 1.2rem;
 }
 
-.btn{
+.btn {
   margin-top: 60px;
   width: 200px;
 }

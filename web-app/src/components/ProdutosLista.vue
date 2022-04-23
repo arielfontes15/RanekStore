@@ -9,7 +9,7 @@
               :src="produto.fotos[0].src"
               alt="produto.fotos[0].titulo"
             />
-            <p class="preco">{{ produto.preco | formatReal}}</p>
+            <p class="preco">{{ produto.preco | formatPreco}}</p>
             <h2 class="titulo">{{ produto.nome }}</h2>
             <p>{{ produto.descricao }}</p>
           </router-link>

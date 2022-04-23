@@ -8,7 +8,7 @@ Vue.config.productionTip = false;
 
 Vue.component("PaginaCarregando", PaginaCarregando);
 
-Vue.filter("formatReal", (valor) => {
+Vue.filter("formatPreco", (valor) => {
   valor = Number(valor);
   if (!isNaN(valor)) {
     return valor.toLocaleString("pt-BR", {
