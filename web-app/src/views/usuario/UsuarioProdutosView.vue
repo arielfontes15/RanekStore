@@ -8,7 +8,7 @@
         <ProdutoItem :propProduto="produto">
           <p>{{ produto.descricao }}</p>
           <button class="deletar" @click="deletarProduto(produto.id)">
-          Deletar
+            Deletar
           </button>
         </ProdutoItem>
       </li>
@@ -61,6 +61,14 @@ export default {
 </script>
 
 <style scoped>
+.produto {
+  box-shadow: 0 4px 8px rgba(30, 60, 90, 0.4);
+  padding: 10px;
+  background: white;
+  border-radius: 10px;
+  transition: all 0.2s;
+}
+
 h2 {
   margin-bottom: 20px;
 }
