@@ -43,7 +43,7 @@ export default {
     adicionarProduto() {
       this.formatarProduto();
       api.post("/produto", this.produto).then(() => {
-        this.$store.dispatch("getUsuarioProduto");
+        this.$store.dispatch("getUsuarioProdutos");
       });
     },
   },

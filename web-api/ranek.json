@@ -5,11 +5,12 @@
       "nome": "Ariel Vitor",
       "email": "arielfontes15@hotmail.com",
       "senha": "123",
-      "cep": "85800-000",
-      "rua": "Rua Cristovao Colombo",
-      "numero": "01",
-      "cidade": "Goiania",
-      "estado": "Goias"
+      "cep": "74484711",
+      "rua": "Rua Susana D'Oliveira",
+      "numero": "12",
+      "bairro": "Jardim das Rosas",
+      "cidade": "Goiânia",
+      "estado": "GO"
     },
     {
       "id": "maria@hotmail.com",
@@ -30,7 +31,7 @@
       "senha": "123",
       "cep": "74483720",
       "rua": "Rua Cristóvão Colombo",
-      "numero": "01",
+      "numero": "32",
       "bairro": "Lorena Parque",
       "cidade": "Goiânia",
       "estado": "GO"
@@ -374,14 +375,6 @@
       "fotos": null
     },
     {
-      "nome": "maconha",
-      "preco": "250",
-      "descricao": "123123",
-      "fotos": null,
-      "usuario_id": "arielfontes15@hotmail.com",
-      "id": "yDJx3f_"
-    },
-    {
       "nome": "Ovo de Pascoa",
       "preco": "145",
       "descricao": "Geovanna nao me deu ovo de pascoa",
@@ -396,6 +389,14 @@
       "fotos": null,
       "usuario_id": "geovanna@hotmail.com",
       "id": "YJ0__0a"
+    },
+    {
+      "nome": "Barra de Chocolate",
+      "preco": "1500",
+      "descricao": "Essa e uma barra de chocolate",
+      "fotos": null,
+      "usuario_id": "geovanna@hotmail.com",
+      "id": "d6xoTlR"
     }
   ]
 }
